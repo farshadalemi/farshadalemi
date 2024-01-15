@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FlowLinks with my team.<br>👯 I’m looking to collaborate on Nothing :)<br>🤝 I’m looking for help with Players Pose Estimation.<br>🌱 I’m currently learning Mongoose.<br>💬 Ask me about API's.<br>⚡ Fun fact, Our life is too short. 
+🔭 I’m currently working on FlowLinks with my team.<br>💬 Ask me about API's.<br>⚡ Fun fact, Our life is too short. 
 
 
 ## 🌐 Socials:
